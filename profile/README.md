@@ -8,7 +8,14 @@
 ![GitHub top language](https://img.shields.io/github/last-commit/SSAFY9-GOAT/Go_On_A_Trip-server)
 
 </div>
+<div align="left">
 
+![GitHub language count](https://img.shields.io/github/languages/count/SSAFY9-GOAT/Go_On_A_Trip-client)
+![GitHub top language](https://img.shields.io/github/languages/top/SSAFY9-GOAT/Go_On_A_Trip-client)
+![GitHub top language](https://img.shields.io/github/commit-activity/w/SSAFY9-GOAT/Go_On_A_Trip-client)
+![GitHub top language](https://img.shields.io/github/last-commit/SSAFY9-GOAT/Go_On_A_Trip-client)
+
+</div>
 # 팀원
 
 <table align="center">
